@@ -21,5 +21,4 @@ I actually pushing hard to mastered ![PHP](https://img.shields.io/badge/php-%237
 <br/>
 <br/>
 
-<img src="icons/icons8-linkedin-48.png" href="https://www.linkedin.com/in/axel-colliaux-ba593a213/">
-<img src="icons/icons8-twitter-48.png">
+<a href="https://www.linkedin.com/in/axel-colliaux-ba593a213/"><img src="icons/icons8-linkedin-48.png"></a><img src="icons/icons8-twitter-48.png">
