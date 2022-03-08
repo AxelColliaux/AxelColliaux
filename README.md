@@ -32,5 +32,5 @@ And I have already learned all the basics in,<br/>
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/axel-colliaux-ba593a213/"><img src="icons/icons8-linkedin-48.png"></a><a href="https://twitter.com/AxelColliaux"><img src="icons/icons8-twitter-48.png"></a><a href="mailto:axel.colliaux@hotmail.fr"><img src="icons/icons8-mail-48.png"></a>
+<a href="https://www.linkedin.com/in/axel-colliaux-ba593a213/"><img src="icons/icons8-linkedin-48.png"></a><a href="https://twitter.com/AxelColliaux"><img src="icons/icons8-twitter-48.png"></a><a href="mailto:axel.colliaux.dev@gmail.com"><img src="icons/icons8-mail-48.png"></a>
 </p>
