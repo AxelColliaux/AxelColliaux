@@ -11,8 +11,8 @@
 
 ### 👨‍💻 About me 
 
-- 👨‍🎓 I recently completed my training at O'Clock [O'Clock](https://oclock.io/) school, since March 18, 2022 and passed my professionnal certification
-- 🎓 I'm currently working on the Opquast[Oquast](https://www.opquast.com/certification/) certification 
+- 👨‍🎓 I recently completed my training at [O'Clock](https://oclock.io/) school, since March 18, 2022 and passed my professionnal certification
+- 🎓 I'm currently working on the [Oquast](https://www.opquast.com/certification/) certification 
 - 💼 In my free time I search a job and develop my portfolio 
 
 
