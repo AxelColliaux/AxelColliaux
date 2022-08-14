@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About me 
 
-- 👨‍🎓 I recently completed my training at [O'Clock](https://oclock.io/) school, since March 18, 2022 and passed my professionnal certification (DWWM)
-- 🎓 I'm currently working on the [Opquast](https://www.opquast.com/certification/) certification 
-- 💼 In my free time I search a job and develop my portfolio 
+- 👨‍🎓 I completed my training at [O'Clock](https://oclock.io/) school, since March 18, 2022 and passed my professionnal certification (DWWM)
+- 🎓 I also passed my [Opquast certification](https://oqs.li/QW2CGJ) to improve my skills in Web Quality (SEO, Security, Accessibility, UX/UI, Eco Conception & more...)
+- 💼 In my free time I search a job and develop my skills 
 
 
 
@@ -36,8 +36,8 @@
 
 ### 👀 Future languages :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" **alt="VueJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" **alt="NodeJS" width="60" height="40"/>
 </div>
 
 ---
