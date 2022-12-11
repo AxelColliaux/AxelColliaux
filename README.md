@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=16&duration=4000&center=true&width=846&lines=Hi+%26+Welcome+to+my+profil+%F0%9F%91%8B;I'm+a+french+back-end+developper+;Based+in+Lyon" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=16&duration=4000&center=true&width=846&lines=Hi+%26+Welcome+to+my+profil+%F0%9F%91%8B;I'm+a+french+full+stack+developper+;Based+in+Lyon" />
 </div>
 
 <div align="center">
