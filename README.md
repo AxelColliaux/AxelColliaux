@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About me 
 
-- 👨‍🎓 I completed my training at [O'Clock](https://oclock.io/) school, since March 18, 2022 and passed my professionnal certification (DWWM)
+- 👨‍🎓 I completed my training at [O'Clock](https://oclock.io/) school and then passed my professionnal certification (DWWM). 
+I'm currently at the [Wild Code School](https://www.wildcodeschool.com/fr-FR) on a work-study program with the Ouidou company to prepare the professionnal certification of designer application developer.
 - 🎓 I also passed my [Opquast certification](https://oqs.li/QW2CGJ) to improve my skills in Web Quality (SEO, Security, Accessibility, UX/UI, Eco Conception & more...)
-- 💼 In my free time I search a job and develop my skills 
 
 
 
@@ -46,6 +46,7 @@
 
 - ⛓ Blockchain 
 - 👾 Video Games
+- 🎥 Cinema
 
 ---
 
