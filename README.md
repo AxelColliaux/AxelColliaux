@@ -58,5 +58,5 @@ I'm currently at the [Wild Code School](https://www.wildcodeschool.com/fr-FR) on
 
 ### 🔗 How to reach me :
 
-<a href="https://www.linkedin.com/in/axel-colliaux-ba593a213/"><img src="icons/icons8-linkedin-48.png"></a><a href="https://twitter.com/AxelColliaux"><img src="icons/icons8-twitter-48.png"></a><a href="mailto:axel.colliaux.dev@gmail.com"><img src="icons/icons8-mail-48.png"></a>
+<a href="https://www.linkedin.com/in/axel-colliaux-ba593a213/"><img src="icons/icons8-linkedin-48.png"></a><a href="https://twitter.com/AxelCllx"><img src="icons/icons8-twitter-48.png"></a><a href="mailto:axel.colliaux.dev@gmail.com"><img src="icons/icons8-mail-48.png"></a>
 
