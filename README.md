@@ -31,6 +31,11 @@ I'm currently studying at [ESGI](https://www.esgi.fr/programmes/architecture-log
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 
+### 🔍 And more soon :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" **alt="azure" width="40" height="40"/>
+</div>
+
 ---
 
 ### 🔥 My Stats :
