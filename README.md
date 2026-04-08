@@ -13,6 +13,7 @@
 - 👨‍🎓 I completed my training at [O'Clock](https://oclock.io/) school and then passed my professionnal certification (DWWM). 
 I then graduated from the [Wild Code School](https://www.wildcodeschool.com/fr-FR) through a work-study program with the [Ouidou](https://ouidou.fr/) company where I obtained my professional certification as an application developer.
 I'm currently studying at [ESGI](https://www.esgi.fr/programmes/architecture-logiciels.html) to become an Expert in Software Development and Architecture Engineering.
+- ☁️ My next step is to specialize in Cloud & DevOps, deepening my expertise in infrastructure, CI/CD pipelines, containerization and cloud-native architectures.
 - 🎓 I also passed my [Opquast certification](https://oqs.li/QW2CGJ) to improve my skills in Web Quality (SEO, Security, Accessibility, UX/UI, Eco Conception & more...)
 
 ---
@@ -20,8 +21,6 @@ https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwe
 ### 🛠 Langages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="40" height="40"/>
@@ -38,12 +37,6 @@ https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwe
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" **alt="terraform" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" **alt="ansible" width="40" height="40"/>
 </div>
-
----
-
-### 🔥 My Stats :
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxelColliaux&theme=vision-friendly-dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
 
