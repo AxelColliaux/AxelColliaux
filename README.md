@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=16&duration=4000&center=true&width=846&lines=Hi+%26+Welcome+to+my+profil+%F0%9F%91%8B;I'm+a+french+full+stack+developper+;Based+in+Lyon" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=16&duration=4000&center=true&width=846&lines=Hi+%26+Welcome+to+my+profil+%F0%9F%91%8B;I'm+a+french+software+engineer+;Based+in+Lyon, France" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@ I'm currently studying at [ESGI](https://www.esgi.fr/programmes/architecture-log
 - 🎓 I also passed my [Opquast certification](https://oqs.li/QW2CGJ) to improve my skills in Web Quality (SEO, Security, Accessibility, UX/UI, Eco Conception & more...)
 
 ---
-
+https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
 ### 🛠 Langages and Tools :
 
 <div>
@@ -33,8 +33,10 @@ I'm currently studying at [ESGI](https://www.esgi.fr/programmes/architecture-log
 
 ### 🔍 And more soon :
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" **alt="azure" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" **alt="aws" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" **alt="kubernetes" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" **alt="terraform" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" **alt="ansible" width="40" height="40"/>
 </div>
 
 ---
