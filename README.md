@@ -17,7 +17,6 @@ I'm currently studying at [ESGI](https://www.esgi.fr/programmes/architecture-log
 - 🎓 I also passed my [Opquast certification](https://oqs.li/QW2CGJ) to improve my skills in Web Quality (SEO, Security, Accessibility, UX/UI, Eco Conception & more...)
 
 ---
-https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
 ### 🛠 Langages and Tools :
 
 <div>
