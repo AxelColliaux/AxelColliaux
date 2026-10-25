@@ -31,7 +31,6 @@ https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwe
 
 ### 🔍 And more soon :
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" **alt="aws" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" **alt="kubernetes" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" **alt="terraform" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" **alt="ansible" width="40" height="40"/>
